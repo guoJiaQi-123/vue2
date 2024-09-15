@@ -1,3 +1,3 @@
 # vue2
-VUE学习DEMO
+VUE学习demo
 
