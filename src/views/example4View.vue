@@ -9,6 +9,7 @@
     </div>
     <div>
       <label for="">请选择爱好：</label>
+      <!--双向绑定-->
       游泳<input type="checkbox" value="游泳" v-model="fav">
       篮球<input type="checkbox" value="篮球" v-model="fav">
       足球<input type="checkbox" value="足球" v-model="fav">

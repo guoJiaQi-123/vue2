@@ -2,7 +2,7 @@
   <div>
     <div><input type="text" v-bind:value="name"/></div>
     <div><input type="text" v-bind:value="age"/></div>
-    <div><input type="date" v-bind:value="birthday"/></div>
+    <div><input type="date" :value="birthday"/></div>
   </div>
 </template>
 
