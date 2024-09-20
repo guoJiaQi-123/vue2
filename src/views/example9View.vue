@@ -42,6 +42,7 @@ const options = {
   mounted() {
     this.query()
   },
+
   data: () => {
     return {
       students: [],
