@@ -12,6 +12,7 @@ const options = {
     }
   }
 }
+
 export default options;
 
 </script>
